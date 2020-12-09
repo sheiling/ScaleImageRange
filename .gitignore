@@ -1,0 +1,16 @@
+
+ScaleImage/.vs/ScaleImage/v16/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.obj
+*.exe
+*.recipe
+*.ilk
+*.tlog
+*.log
+*.pdb
+*.txt
+*.idb
