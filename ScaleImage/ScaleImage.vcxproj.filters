@@ -18,6 +18,12 @@
     <ClInclude Include="ScaleImage.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="GaussianAnisotropicEdge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LutOperator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

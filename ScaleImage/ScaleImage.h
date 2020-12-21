@@ -1,6 +1,5 @@
 #pragma once
 
-#include <tuple>
 #include "opencv2/opencv.hpp"
 
 class ScaleImage
