@@ -141,6 +141,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BottomHat.h" />
     <ClInclude Include="GaussianAnisotropicEdge.h" />
     <ClInclude Include="LutOperator.h" />
     <ClInclude Include="ScaleImage.h" />
